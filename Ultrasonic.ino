@@ -11,7 +11,7 @@
 
 // defines variables
 long duration; // variable for the duration of sound wave travel
-int distance; // variable for the distance measurement
+double distance; // variable for the distance measurement
 
 void setup() {
   pinMode(trigPin, OUTPUT); // Sets the trigPin as an OUTPUT
